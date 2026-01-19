@@ -19,21 +19,22 @@ The analysis compares trader behavior across sentiment regimes using:
 Trades were aggregated at a daily level and enriched with market sentiment to enable robust comparison.
 
 ## 📁 Repository Structure
-ds_sarthak_shandilya/
-├── notebook_1.ipynb
-├── csv_files/
-│   └── daily_metrics.csv
-├── outputs/
-│   ├── pnl_vs_sentiment.png
-│   ├── volume_vs_sentiment.png
-│   ├── avg_trade_size_vs_sentiment.png
-│   └── win_rate_vs_sentiment.png
-├── ds_report.pdf
+
+    ds_sarthak_shandilya/
+    ├── notebook_1.ipynb
+    ├── csv_files/
+    │   └── daily_metrics.csv
+    ├── outputs/
+    │   ├── pnl_vs_sentiment.png
+    │   ├── volume_vs_sentiment.png
+    │   ├── avg_trade_size_vs_sentiment.png
+    │   └── win_rate_vs_sentiment.png
+    └── ds_report.pdf
 
 ## ▶️ How to View
-- Open `notebook_1.ipynb` to see the full analysis workflow  
-- Refer to `ds_report.pdf` for summarized insights and conclusions  
-- Visual outputs are available in the `outputs/` directory  
+- Open `notebook_1.ipynb` to see the full analysis workflow
+- Refer to `ds_report.pdf` for summarized insights and conclusions
+- Visual outputs are available in the `outputs/` directory
 
 ## 🔗 Google Colab
 The notebook was developed and executed in Google Colab.  
